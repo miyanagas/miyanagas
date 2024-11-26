@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miyanagas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+# Activity
+<div>
+  <img alt="Top Langs" height=170px src="https://github-readme-stats.vercel.app/api/top-langs/?username=miyanagas&layout=compact">
+  <img alt="GitHub Stats" height=170px src="https://github-readme-stats.vercel.app/api?username=miyanagas&show_icons=true">
+</div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=miyanagas&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=miyanagas)](https://github.com/ryo-ma/github-profile-trophy)
+<img alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=miyanagas&column=9">
